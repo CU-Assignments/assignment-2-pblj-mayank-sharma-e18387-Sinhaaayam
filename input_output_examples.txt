@@ -1,1 +1,14 @@
+Product Example-
+Example Input:
 
+Product ID: 101
+Name: Laptop
+Price: 75000
+
+Example Output:
+Product Details:
+ID: 101
+Name: Laptop
+Price: 75000
+
+Library Management System Example-
