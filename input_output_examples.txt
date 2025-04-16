@@ -12,3 +12,28 @@ Name: Laptop
 Price: 75000
 
 Library Management System Example-
+
+Example Input:
+
+Book 1:
+Type: Fiction
+Title: Harry Potter
+Author: J.K. Rowling
+Price: 500
+
+Book 2:
+Type: Non-Fiction
+Title: Sapiens
+Author: Yuval Noah Harari
+Price: 700
+Example Output:
+
+Fiction Book Details:
+Title: Harry Potter
+Author: J.K. Rowling
+Price: 500
+
+Non-Fiction Book Details:
+Title: Sapiens
+Author: Yuval Noah Harari
+Price: 700
